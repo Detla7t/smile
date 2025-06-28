@@ -14,5 +14,6 @@
     gimp
     qbittorrent
     koreader
+    signal-desktop
   ];
 }
